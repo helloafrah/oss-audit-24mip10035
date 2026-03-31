@@ -1,0 +1,8 @@
+
+Open Source Manifesto
+Date: 31 March 2026
+
+I believe that tools like Git represent the spirit of Choice.
+Technology should not be locked away, but shared openly.
+If given the chance, I would build A learning app and share it with the world.
+This is my contribution to the open-source community.
